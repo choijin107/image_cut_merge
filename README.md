@@ -14,7 +14,7 @@
 ---
 
 <h1>[풀이]</h1>
-1. cut_image.py
+1. cut_image.py<br/> 
     - 매개변수<br/> 
         1. image_file_name : 원본 이미지 이름 <br/>
         2. column_num : 열 <br/> 
