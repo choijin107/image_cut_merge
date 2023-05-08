@@ -1,7 +1,6 @@
 <div align = center>
     <h1>image_cut_merge</h1>
 </div>
----
 
 <h1>[문제]</h1>
 1. 하나의 이미지를 M * N 자르기 <br/> 
