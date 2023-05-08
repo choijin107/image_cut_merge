@@ -1,5 +1,5 @@
 <div align = center)
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=image_cut_merge&fontSize=90" />
+    <h1>image_cut_merge</h1>
 </div>
 
 ---
