@@ -1,7 +1,6 @@
-<div align = center)
+<div align = center>
     <h1>image_cut_merge</h1>
 </div>
-
 ---
 
 <h1>[문제]</h1>
@@ -22,7 +21,7 @@
         2. column_num : 열 <br/> 
         3. row_num : 행 <br/> 
         4. prefix_output_filename : 자른 이미지들의 접두사 <br/> 
-    - 함수 실행
+    - 함수 실행<br/> 
         read_image() → cut_image() → make_dir() → random_conversion_image()
         
 2. merge_image.py
