@@ -17,13 +17,12 @@
 
 <h1>[풀이]</h1>
 1. cut_image.py
-    - 매개변수
+    - 매개변수<br/> 
         1. image_file_name : 원본 이미지 이름 <br/>
         2. column_num : 열 <br/> 
         3. row_num : 행 <br/> 
         4. prefix_output_filename : 자른 이미지들의 접두사 <br/> 
     - 함수 실행
-    
         read_image() → cut_image() → make_dir() → random_conversion_image()
         
 2. merge_image.py
