@@ -1,6 +1,8 @@
-#image_cut_merge
+<div align = center)
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=image_cut_merge&fontSize=90" />
+</div>
 ---
-##[문제]
+<h1>[문제]</h1>
 1. 하나의 이미지를 M * N 자르기
 2. M * N 부분 이미지 → 임의 변환 (mirroring, flipping, 90 degree rotation)
 3. 임의로 변환된 M * N 부분 이미지 → 하나의 이미지로 병합
@@ -11,7 +13,7 @@
 
 ---
 
-##[풀이]
+<h2>[풀이]</h2>
 1. cut_image.py
     - 매개변수
         1. image_file_name : 원본 이미지 이름
@@ -41,7 +43,7 @@
 (+) merge_image_template.py 
 
 ---
-##[코드 구현 결과 - merge ; 실패]
+<h1>[코드 구현 결과 - merge ; 실패]</h1>
     # merge_image.py
     원본 이미지를 사용하지 않고, 임의 변환된 각각의 자른 이미지를 사용하여 하나의 이미지로 구현해보려 했으나
     상하 또는 좌우 반전이 각기 달라 그에 맞는 4가지 결과 값 중 하나에 부합하도록 합치는게 생각처럼 쉽게 구현되지 않았음.
